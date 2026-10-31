@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Saqeeb 👋
+# Hi, I'm Mohammed Saqeeb 
 
 ### Full Stack Developer | Web Development Enthusiast
 
