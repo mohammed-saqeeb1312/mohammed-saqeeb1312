@@ -48,7 +48,7 @@ Repository: [Weather App](https://github.com/mohammed-saqeeb1312/Wheather_App)
 
 ### 🌐 Connect With Me
 
-- **Portfolio:** [mohammedsaqeeb.vercel.app](https://mohammedsaqeeb.vercel.app)
+- **Portfolio:** [https://transcendent-stardust-56c390.netlify.app/).
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammed-saqeeb-patel-810b3b251/)
 - **Email:** [Contact me](mailto:mohammedsaqeeb1312@gmail.com)
 
